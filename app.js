@@ -1,4 +1,4 @@
-// Nimbus store — plain JS. No product analytics wired in (that's the task).
+// Nimbus store — plain JS.
 const PRODUCTS = [
   { id: "tee", name: "Cloud Tee", price: 28 },
   { id: "mug", name: "Nimbus Mug", price: 14 },
