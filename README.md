@@ -6,7 +6,7 @@ Nimbus is a tiny storefront — browse products, add to a cart, check out.
 
 It is intentionally small. The user-action handlers log to the console.
 
-## User actions worth tracking
+## Key user actions
 
 open cart · add to cart · checkout
 
